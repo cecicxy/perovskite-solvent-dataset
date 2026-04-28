@@ -1,12 +1,10 @@
 # Perovskite Solar Cell Solvent Dataset
 
-A curated dataset of solvent systems used in perovskite solar cell fabrication, compiled from academic literature.
+A curated dataset of solvent systems used in perovskite solar cell fabrication, compiled from academic literature, etc.
 
 ## Dataset: `perovskite_solvent.csv`
 
-**287 entries** merged from two sources:
-- 83 entries with stability data, manually curated from green solvent literature
-- 204 entries aggregated from the [Perovskite Database](https://www.perovskitedatabase.com/)
+**287 entries** merged from multiple sources
 
 ### Columns
 
